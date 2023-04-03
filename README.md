@@ -1,5 +1,7 @@
 # Credit_Risk_Analysis
 
+![Alt text](images/LendingClub-CEO-Resigns.jpg)
+
 Supervised Machine Learning
 
 ## Overview
