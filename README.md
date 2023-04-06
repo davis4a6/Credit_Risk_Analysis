@@ -92,14 +92,14 @@ Recall Score:
 
 ![Alt text](images/EasyEnsemble.PNG)
 
-Balanced Accuracy Score: 0.7885466545953005
+Balanced Accuracy Score: 0.9316600714093861
 Precision Score:
-    High Risk- 0.03
+    High Risk- 0.09
     Low Risk- 1.00
 Recall Score: 
-    High Risk- 0.70
-    Low Risk- 0.87
+    High Risk- 0.92
+    Low Risk- 0.94
 
 ## Summary
 
-In summary, the Ensemble Learners; Balanced Random Forest Classifier and the Easy Ensemble AdaBoost Classifier have shown the highest accuracy between zero and one and is closest to one. This means that they would be the best machine learning model. The other models showed accuracy below .70. The precision for all models were .03 or .01 for high risk, and all were 1 for low risk. The Ensemble Learner models also had the better scores for recall, which were .70 for high risk and .87 for low risk. Since they both had the highest scores, this proves that they would be the best machine learning models to choose for further credit and credit card analysis with Lending Club.
+In summary, the Ensemble Learner, Easy Ensemble AdaBoost Classifier has shown the highest accuracy between zero and one and is closest to one. This means that this would be the best machine learning model. The other models showed accuracy below .70. The precision for all models were .03 or .01 for high risk, and all were 1 for low risk. The Easy Ensemble AdaBoost Learner model also had the better scores for recall, which was .92 for high risk and .94 for low risk. Since the Easy Ensemble AdaBoost Classifier had the highest score, this proves that it would be the best machine learning model to choose for further credit and credit card analysis with Lending Club.
